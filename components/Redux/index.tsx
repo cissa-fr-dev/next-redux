@@ -18,7 +18,6 @@ const Redux = () => {
 
   return (
     <Content>
-      {console.log(title)}
       <H1>Example with Redux</H1>
       <ContentForm>
         <Form>
